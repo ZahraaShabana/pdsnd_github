@@ -14,6 +14,7 @@ In this project, I utilized Python to explore bikeshare system for three cites: 
 - bikeshare.py
 
 2. Data Files (CSV) - Not Uploaded (ignored using .gitignore):
+
 - chicago.csv
 - new_york_city.csv
 - washington.csv
